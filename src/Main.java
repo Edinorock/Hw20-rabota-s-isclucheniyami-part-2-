@@ -33,7 +33,7 @@ public class Main {
 
     public static void main (String[]args) {
 
-        Car kia = new Car("Kia", "Rio", 1.6, BodyType.HATCHBACK);
+        Car kia = new Car("Kia", "Ria", 1.6, BodyType.HATCHBACK);
         Car honda = new Car("Honda", "CR-V", 2.0, BodyType.CROSSOVER);
         Car hyundai = new Car("Hyundai", "Creta", 1.8, BodyType.SEDAN);
         Car toyota = new Car("Toyota", "Camry", 3.0, BodyType.HATCHBACK);
